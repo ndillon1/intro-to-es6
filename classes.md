@@ -1,5 +1,5 @@
 # Classes
-Javascript is an Object Orientated but doesn't use the same class model like Java or C#, but through using ES6 we can apply these concepts more easily using keywords class, constructor, extends,  super and get.
+Javascript is an Object Orientated language but doesn't use the same class model like Java or C#, but through using ES6 we can apply these concepts more easily using keywords class, constructor, extends,  super and get.
 
 ```js
 
